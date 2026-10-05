@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://omagrotech.com/sitemap.xml
