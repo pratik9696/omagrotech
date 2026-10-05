@@ -132,7 +132,7 @@ function page(t) {
     </aside>
   </div>
   <svg class="hero-field" viewBox="0 0 1440 160" preserveAspectRatio="none" aria-hidden="true">
-    <path d="M0 80C240 20 480 20 720 70s480 50 720-10v100H0z" fill="#1d4f2d"/>
+    <path d="M0 80C240 20 480 20 720 70s480 50 720-10v100H0z" fill="#e3eedb"/>
     <path d="M0 110c260-50 520-40 760 0s460 30 680-20v70H0z" fill="#fbf8f1"/>
   </svg>
 </section>
@@ -221,7 +221,7 @@ function page(t) {
 <section class="section process" id="process">
   <div class="wrap">
     <header class="section-head reveal">
-      <p class="eyebrow light">${t.process.eyebrow}</p>
+      <p class="eyebrow">${t.process.eyebrow}</p>
       <h2>${t.process.title}</h2>
       <p>${t.process.lead}</p>
     </header>
